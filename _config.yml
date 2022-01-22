@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Charlotte Rodriguez's homepage
 description: [Add description of the website here.]
+github:
+  is_project_page: false
