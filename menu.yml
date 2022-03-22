@@ -1,0 +1,36 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: presentation text
+      - title: contact
+  
+  - title: research
+    entries:
+      - title: research topics
+        entries:
+          - title: with subsubitems
+          - title: example page
+            url: about
+      - title: publications	
+  - title: CV
+
+  - title: misc
+    entries:
+      - title: GitHub repo
+      - title: Linked in, ResearchGate
+      - title: unpublished texts
+        entries:
+          - title: master thesis
+          - title: Interpolation et extrapolation en analyse harmonique
+          - title: Variation contingente négative en électroencéphalographie
+
+
+#  - title: posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive.html
