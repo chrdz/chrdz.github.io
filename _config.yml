@@ -1,5 +1,5 @@
-#theme: jekyll-theme-minimal
-remote-theme: riggraz/no-style-please
+theme: jekyll-theme-minimal
+#remote-theme: riggraz/no-style-please
 title: Charlotte Rodriguez's homepage
 description: [Add description of the website here.]
 github:
