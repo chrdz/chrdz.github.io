@@ -16,7 +16,8 @@ entries:
       - title: publications	
         url: https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao
   
-  - title: <a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">CV</a>
+  - title: CV
+  #<a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">CV</a>
 
   - title: misc
     entries:
