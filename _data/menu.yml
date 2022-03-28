@@ -26,9 +26,9 @@ entries:
       - title: unpublished texts
         entries:
           - title: <a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">Model order reduction via balanced truncation and proper orthogonal decomposition (master thesis 2018)</a>
-          - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/internship-control-2017.pdf" target="_blank">Semi-groupes d'opérateurs et équations différentielles non-homogènes (internship 2017)</a>
-          - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique (2015-2016)</a>
-          - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie (internship 2015)</a>
+          #- title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/internship-control-2017.pdf" target="_blank">Semi-groupes d'opérateurs et équations différentielles non-homogènes (internship 2017)</a>
+          #- title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique (2015-2016)</a>
+          #- title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie (internship 2015)</a>
 
 
 #  - title: posts
