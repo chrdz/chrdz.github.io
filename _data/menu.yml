@@ -2,13 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200"> info
+  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> info
     entries:
       - title: I completed my PhD in December 2021 at FAU Erlangen-Nürnberg, Germany (highest honors, as a Marie Sklodowska-Curie Fellow). My research was focused on nonlinear models for beams that may undergo large deflections, which have a range of applications in aeroelastics for flexible structures (e.g. the modelling of NASA's Helios aircraft; offshore wind turbines). Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, France. I am passionate about solving problems at the interplay of software engineering, applied mathematics and physics, with applications to cutting edge technologies.
       - title: contact 
         entries:
           - title: rdz.charlotte (at) gmail.com
-          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target="_blank">Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target="_blank">ResearchGate</a>"
+          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>"
       
   - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/CV-rodriguez.pdf" target="_blank">CV</a>
   
