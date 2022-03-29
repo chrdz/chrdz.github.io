@@ -4,7 +4,3 @@ title: Charlotte Rodriguez's homepage
 description: [Add description of the website here.]
 github:
   is_project_page: false
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
