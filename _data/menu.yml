@@ -17,7 +17,7 @@ entries:
 
   - title: misc
     entries:
-      - title: most of my code is on <a href="https://github.com/chrdz">GitHub</a>
+      - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
       - title: unpublished texts
         entries:
           - title: <a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">Model order reduction via balanced truncation and proper orthogonal decomposition</a> (master thesis 2018)
