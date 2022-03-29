@@ -4,21 +4,13 @@
 entries:
   - title: info
     entries:
-      - title: ```markdown
-      I completed my PhD in December 2021 at FAU Erlangen-Nürnberg, Germany (highest honors, as a Marie Sklodowska-Curie Fellow). My research was focused on nonlinear models for beams that may undergo large deflections, which have a range of applications in aeroelastics for flexible structures (e.g. the modelling of NASA's Helios aircraft; offshore wind turbines). Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, France. I am passionate about solving problems at the interplay of software engineering, applied mathematics and physics, with applications to cutting edge technologies.
-      '''
+      - title: I completed my PhD in December 2021 at FAU Erlangen-Nürnberg, Germany (highest honors, as a Marie Sklodowska-Curie Fellow). My research was focused on nonlinear models for beams that may undergo large deflections, which have a range of applications in aeroelastics for flexible structures (e.g. the modelling of NASA's Helios aircraft; offshore wind turbines). Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, France. I am passionate about solving problems at the interplay of software engineering, applied mathematics and physics, with applications to cutting edge technologies.
       - title: "contact: rdz.charlotte (at) gmail.com"
+      
+  - title: my <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/CV-rodriguez.pdf" target="_blank">CV</a>
   
-  - title: research
-    entries:
-      - title: research topics
-        entries:
-          - title: with subsubitems
-          - title: example page
-      - title: publications	
-        url: https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao
-  
-  - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/CV-rodriguez.pdf" target="_blank">CV</a>
+  - title: publications	
+    url: https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao
 
   - title: misc
     entries:
