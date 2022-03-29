@@ -5,7 +5,10 @@ entries:
   - title: info <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200">
     entries:
       - title: I completed my PhD in December 2021 at FAU Erlangen-Nürnberg, Germany (highest honors, as a Marie Sklodowska-Curie Fellow). My research was focused on nonlinear models for beams that may undergo large deflections, which have a range of applications in aeroelastics for flexible structures (e.g. the modelling of NASA's Helios aircraft; offshore wind turbines). Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, France. I am passionate about solving problems at the interplay of software engineering, applied mathematics and physics, with applications to cutting edge technologies.
-      - title: "contact: rdz.charlotte (at) gmail.com"
+      - title: contact 
+        entries:
+          - title: rdz.charlotte (at) gmail.com
+          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2'>ResearchGate</a>"
       
   - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/CV-rodriguez.pdf" target="_blank">CV</a>
   
@@ -14,9 +17,7 @@ entries:
 
   - title: misc
     entries:
-      - title: GitHub
-        url: https://github.com/chrdz
-      - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2'>ResearchGate</a>"
+      - title: most of my code is on <a href="https://github.com/chrdz">GitHub</a>
       - title: unpublished texts
         entries:
           - title: <a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">Model order reduction via balanced truncation and proper orthogonal decomposition</a> (master thesis 2018)
