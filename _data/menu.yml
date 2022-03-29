@@ -8,12 +8,11 @@ entries:
       - title: contact 
         entries:
           - title: rdz.charlotte (at) gmail.com
-          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2'>ResearchGate</a>"
+          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target="_blank">Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target="_blank">ResearchGate</a>"
       
   - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/CV-rodriguez.pdf" target="_blank">CV</a>
   
-  - title: publications	
-    url: https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao
+  - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target="_blank"> publications </a>
 
   - title: misc
     entries:
