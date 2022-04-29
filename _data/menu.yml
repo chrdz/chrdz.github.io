@@ -20,7 +20,7 @@ entries:
       - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
       - title: unpublished texts
         entries:
-          - title: <a href="https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">Model order reduction via balanced truncation and proper orthogonal decomposition</a> (master thesis 2018)
+          - title: <a href='https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf' target='_blank'>Model order reduction via balanced truncation and proper orthogonal decomposition</a> (master thesis 2018)
           - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/internship-control-2017.pdf" target="_blank">Semi-groupes d'opérateurs et équations différentielles non-homogènes</a> (internship 2017; in french)
           - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique</a> (supervised research work 2015-2016; in french)
           - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie</a> (internship 2015; in french)
