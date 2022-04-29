@@ -1,6 +1,13 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
+<script>
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
+</script>
+
 entries:
   - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> info
     entries:
@@ -26,9 +33,3 @@ entries:
           - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique</a> (supervised research work 2015-2016; in french)
           - title: <a href="https://github.com/chrdz/chrdz.github.io/raw/main/_data/_pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie</a> (internship 2015; in french)
 
-
-
-function openInNewTab(url) {
-  var win = window.open(url, '_blank');
-  win.focus();
-}
