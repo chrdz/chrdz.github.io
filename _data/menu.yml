@@ -18,10 +18,9 @@ entries:
   - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target='_blank'> publications</a>
 
   - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
-  
+  <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/flying_spaghetti_20_3D.gif" width="200" alt="flying spaghetti"><img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/rotating_arm_15_2D.gif" width="200" alt="rotating arm">
 
-
-  - title: "<img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/flying_spaghetti_20_3D.gif" width="200" alt="flying spaghetti"><img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/rotating_arm_15_2D.gif" width="200" alt="rotating arm">" misc
+  - title: misc
     entries:
       - title: unpublished texts
         entries:
