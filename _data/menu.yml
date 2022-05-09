@@ -12,7 +12,8 @@ entries:
       - title: contact 
         entries:
           - title: rdz.charlotte (at) gmail.com
-          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>"      
+          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linked in</a>
+          - title: <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>"      
   
   - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target='_blank'> publications</a>
 
@@ -20,7 +21,7 @@ entries:
   
 
 
-  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/flying_spaghetti_20_3D.gif" width="200" alt="flying spaghetti"> <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/rotating_arm_15_2D.gif" width="200" alt="rotating arm"> misc
+  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/flying_spaghetti_20_3D.gif" width="200" alt="flying spaghetti"><img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/rotating_arm_15_2D.gif" width="200" alt="rotating arm"> misc
     entries:
       - title: unpublished texts
         entries:
