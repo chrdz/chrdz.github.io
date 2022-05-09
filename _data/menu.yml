@@ -16,11 +16,11 @@ entries:
   
   - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target='_blank'> publications</a>
 
-  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
+  - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
   
 
 
-  - title: misc
+  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_gif/flying_spaghetti_20_3D.gif" width="150" alt="flying spaghetti"> misc
     entries:
       - title: unpublished texts
         entries:
