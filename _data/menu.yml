@@ -1,27 +1,31 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
+
+
 entries:
   - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> info
     entries:
-      - title: I am passionate about the interplay between mathematics, computing and the applied sciences, and am very enthusiastic about working in multidisciplinary teams. 
-      - title: I completed my PhD in December 2021 at FAU Erlangen-Nürnberg, Germany (with highest honors, as a Marie Sklodowska-Curie Fellow). My research was focused on nonlinear models for beams that may undergo large deflections (i.e., for very flexible structures), which have a range of applications in aeroelastics (e.g., the modelling of NASA's Helios aircraft; offshore wind turbines) and soft robotics. Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, France.
+      - title: Actively looking for opportunities in Data Science and Software Engineering in the Greater Boston Area.
+      - title: I'm passionate about the interplay between math, programming and the applied sciences, and very enthusiastic about working in multidisciplinary teams.
+      - title: I completed my PhD, in Applied Mathematics, in December 2021 at FAU Erlangen-Nürnberg, in Germany. Prior to this, I studied Applied Mathematics and Computer Science at the University of Bordeaux, in France.
       - title: contact 
         entries:
           - title: rdz.charlotte (at) gmail.com
-          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>"    
-      
-  - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/CV_rodriguez.pdf" target="_blank">CV</a>
+          - title: "<a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linked in</a>, <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>"      
   
-  - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target='_blank'> publications</a> (see also links in CV)
+  - title: <a href='https://scholar.google.com/citations?user=4zvdhmcAAAAJ&hl=en&oi=ao' target='_blank'> publications</a>
+
+  - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
+  <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture">
+
 
   - title: misc
     entries:
-      - title: most of my code is on <a href="https://github.com/chrdz" target="_blank">GitHub</a>
       - title: unpublished texts
         entries:
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/2018-balancedTruncation/raw/master/Master-Thesis.pdf" target="_blank">Model order reduction via balanced truncation and proper orthogonal decomposition</a> (master thesis 2018)
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/internship-control-2017.pdf" target="_blank">Semi-groupes d'opérateurs et équations différentielles non-homogènes</a> (internship 2017; in french)
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique</a> (supervised research work 2015-2016; in french)
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie</a> (internship 2015; in french)
-
+  
