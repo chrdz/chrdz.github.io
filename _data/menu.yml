@@ -1,16 +1,15 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-
-
 entries:
   - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> info
     entries:
-      - title: Passionate about the interplay between math, programming and the applied sciences, and very enthusiastic about working in multidisciplinary teams.
-      - title: I completed my PhD, in Applied Mathematics, in December 2021 at FAU Erlangen-Nürnberg, in Germany. Prior to this, I studied Applied Mathematics and Computer Science at the University of Bordeaux, in France.
+      - title: I'm passionate about the interplay between math, programming and the applied sciences, and very enthusiastic about working in multidisciplinary teams.
+      - title: Currently, I'm working the Accenture Labs Sophia and at INRIA Sophia Antipolis (NEO team), where we investigate the energy and carbon cost of machine leaning.
+      - title: I completed my PhD, in applied mathematics, in December 2021 at FAU Erlangen-Nürnberg, in Germany. Prior to this, I studied applied mathematics and computer science at the University of Bordeaux, in France.
       - title: contact 
         entries:
-          - title: rdz.charlotte (at) gmail.com
+          - title: rdz (dot) charlotte (at) gmail (dot) com
           - title: <a href='https://www.linkedin.com/in/charlotte-rodriguez-50980493/' target='_blank'>Linkedin</a>
           - title: <a href='https://www.researchgate.net/profile/Charlotte-Rodriguez-2' target='_blank'>ResearchGate</a>    
   
@@ -29,4 +28,3 @@ entries:
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/internship-control-2017.pdf" target="_blank">Semi-groupes d'opérateurs et équations différentielles non-homogènes</a> (internship 2017; in french)
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/ter-harmonic-analysis-2016-2017.pdf" target="_blank">Interpolation et extrapolation en analyse harmonique</a> (supervised research work 2015-2016; in french)
           - title: <a href="https://docs.google.com/viewer?url=https://github.com/chrdz/chrdz.github.io/raw/main/_pdf/internship-EEG-2015.pdf" target="_blank">Variation contingente négative en électroencéphalographie</a> (internship 2015; in french)
-  
