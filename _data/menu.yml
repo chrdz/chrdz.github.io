@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.jpg" width="200" alt="Profile picture"> info
+  - title: <img src = "https://github.com/chrdz/chrdz.github.io/raw/main/_data/RodriguezPicture.JPG" width="200" alt="Profile picture"> info
     entries:
       - title: I'm passionate about the interplay between math, programming and the applied sciences, and very enthusiastic about working in multidisciplinary teams.
       - title: Currently, I'm working the Accenture Labs Sophia and at INRIA Sophia Antipolis (NEO team), where we investigate the energy and carbon cost of machine leaning.
